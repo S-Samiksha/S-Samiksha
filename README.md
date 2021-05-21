@@ -3,6 +3,8 @@
 ### About Me
 I am Sankar Samiksha. I am currently a year 1 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. I will be starting my second year in August 2021. 
 
+---
+
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=S-Samiksha&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&theme=blue-green)
