@@ -5,6 +5,8 @@ I am Sankar Samiksha. I am currently a year 1 student studying Computer Science 
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=S-Samiksha&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&theme=blue-green)
+
 <!--
 **S-Samiksha/S-Samiksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
