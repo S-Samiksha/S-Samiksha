@@ -5,7 +5,7 @@ I am Sankar Samiksha. I am currently a year 1 student studying Computer Science 
 
 ---
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=S-Samiksha&show_icons=true)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=S-Samiksha&show_icons=true&theme=blue-green)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&theme=blue-green)
 
