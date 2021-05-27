@@ -4,14 +4,13 @@
 I am Sankar Samiksha. I am currently a year 1 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. I will be starting my second year in August 2021. 
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-Samiksha)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-Samiksha)](https://git.io/streak-stats&theme=cobalt)
 
 ---
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=S-Samiksha&show_icons=true&theme=cobalt)
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&theme=cobalt)
 
+---
 <!--
 **S-Samiksha/S-Samiksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
