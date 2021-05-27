@@ -4,7 +4,7 @@
 I am Sankar Samiksha. I am currently a year 1 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. I will be starting my second year in August 2021. 
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-Samiksha&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-Samiksha&theme=dracula)](https://git.io/streak-stats)
 
 ---
 
