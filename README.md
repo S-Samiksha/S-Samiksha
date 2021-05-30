@@ -18,7 +18,7 @@ I am Sankar Samiksha. I am currently a year 1 student studying Computer Science 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-Samiksha&theme=dracula)](https://git.io/streak-stats)
 
 ---
-![](https://komarev.com/ghpvc/?username=S-Samiksha)
+
 
 
 
