@@ -15,13 +15,6 @@ I am Sankar Samiksha. I am currently a year 1 student studying Computer Science 
 
 ---
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=S-Samiksha)
-
----
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
-
----
 
 <!--
 **S-Samiksha/S-Samiksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
