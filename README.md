@@ -3,12 +3,28 @@
 ### About Me
 I am Sankar Samiksha. I am currently a year 1 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. I will be starting my second year in August 2021. 
 
+### Software, Technologies and Languages 
+
+#### Languages and Libraries
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+
+#### Version Control
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+#### Design
+<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+#### IDEs
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-Samiksha&theme=dracula)](https://git.io/streak-stats)
-
----
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&theme=dracula)
 
 ---
 
