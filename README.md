@@ -15,9 +15,6 @@ I am Sankar Samiksha. I am currently a year 1 student studying Computer Science 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 
 ---
-// [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-Samiksha&theme=dracula)](https://git.io/streak-stats)
-
----
 
 
 
@@ -35,4 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-Samiksha&theme=dracula)](https://git.io/streak-stats)
 -->
