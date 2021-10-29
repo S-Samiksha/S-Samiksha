@@ -2,7 +2,7 @@
 
 ### About Me
 I am Sankar Samiksha. I am currently a year 2 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. <br>
-<!--**Personal Website:** https://s-samiksha.github.io/ -->
+**Personal Website:** https://s-samiksha.github.io/
 
 ### Currently Working On
 **Project Title:** SCSE21018 - Vulnerability Analysis of Microprocessors - I <br>
