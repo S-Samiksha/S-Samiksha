@@ -4,6 +4,13 @@
 I am Sankar Samiksha. I am currently a year 2 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. <br>
 <!--**Personal Website:** https://s-samiksha.github.io/ -->
 
+### Currently Working On
+**Project Title:** SCSE21018 - Vulnerability Analysis of Microprocessors - I <br>
+
+**Project Description:** Currently, I am taking part in URECA to conduct research on the vulnerabilities in Intel SGX. Commercial processors such as Intel processors have multiple security protocols such as secure boot processes, memory encryption, remote attestation, and address space layout randomization. In my research, I am focusing on the attacks that lead to the remote attestation protocol being compromised.
+
+**Supervisor:** A/P Anupam Chattopadhyay, Co-PI & Thrust (iv) Lead <br>
+
 ### Software, Technologies and Languages I have Learnt
 
 #### Programming Languages
