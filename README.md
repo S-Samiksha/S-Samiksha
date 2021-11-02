@@ -36,11 +36,12 @@ I am Sankar Samiksha. I am currently a year 2 student studying Computer Science 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&layout=compact)](https://github.com/S-Samiksha/github-readme-stats)
+
 
 
 <!--
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&layout=compact)](https://github.com/S-Samiksha/github-readme-stats)
 
 https://github.com/Ileriayo/markdown-badges
 
