@@ -2,7 +2,28 @@
 
 ### About Me
 I am Sankar Samiksha. I am currently a year 2 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. <br>
-**Personal Website:** https://s-samiksha.github.io/
+
+### Software, Technologies and Languages I have Learnt
+
+#### Programming Languages
+C/C++ Programming, Python, Java
+
+#### Database
+MySQL 
+
+#### Web Development
+HTML, CSS, JavaScript, Python Flask, Bootstrap, Jekyll
+
+#### Machine Learning, Deep Learning and Data Science
+Pandas, Scikit-learn, PyTorch, R, STATA, MATLAB, Anaconda, SciPy, 
+
+#### Operating Systems
+Windows, Ubuntu
+
+#### Version Control
+Git, GitHub, TortoiseSVN
+
+
 
 ---
 
