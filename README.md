@@ -15,7 +15,7 @@ MySQL
 HTML, CSS, JavaScript, Python Flask, Bootstrap, Jekyll
 
 #### Machine Learning, Deep Learning and Data Science
-Pandas, Scikit-learn, PyTorch, R, STATA, MATLAB, Anaconda, SciPy, MatPlotLib, NumPy
+Pandas, Scikit-learn, PyTorch, R, STATA, MATLAB, Anaconda, SciPy, MatPlotLib, NumPy, Seaborn
 
 #### Operating Systems
 Windows, Ubuntu
