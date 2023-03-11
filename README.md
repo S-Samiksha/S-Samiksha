@@ -22,6 +22,7 @@ Pandas, Scikit-learn, PyTorch, R, STATA, SciPy, MatPlotLib, NumPy, Seaborn
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&layout=compact)](https://github.com/S-Samiksha/github-readme-stats)
 
 ---
 
@@ -53,7 +54,7 @@ Pandas, Scikit-learn, PyTorch, R, STATA, SciPy, MatPlotLib, NumPy, Seaborn
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&layout=compact)](https://github.com/S-Samiksha/github-readme-stats)
+
 
 https://github.com/Ileriayo/markdown-badges
 
