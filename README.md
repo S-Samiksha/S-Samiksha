@@ -22,7 +22,7 @@ Pandas, Scikit-learn, PyTorch, R, STATA, SciPy, MatPlotLib, NumPy, Seaborn
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&layout=compact)](https://github.com/S-Samiksha/github-readme-stats)
+
 
 ---
 
