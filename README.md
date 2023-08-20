@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About Me
-I am Sankar Samiksha. I am currently a year 3 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. <br>
+I am Sankar Samiksha. I am currently a year 4 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. <br>
 
 ### Software, Technologies and Languages I have Learnt
 
