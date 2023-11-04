@@ -6,10 +6,10 @@ I am Sankar Samiksha. I am currently a year 4 student studying Computer Science 
 ### Software, Technologies and Languages I have Learnt
 
 #### Programming Languages
-C/C++ Programming, Python, Java
+C/C++ Programming, Python, Java, JavaScript, Solidity
 
 #### Database
-MySQL, PostgresSQL
+MySQL, PostgreSQL
 
 #### Web Development
 HTML, CSS, JavaScript, Python Flask, Bootstrap, Jekyll
