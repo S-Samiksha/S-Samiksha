@@ -12,7 +12,7 @@ C/C++ Programming, Python, Java, JavaScript, Solidity
 MySQL, PostgreSQL
 
 #### Web Development
-React, HTML, CSS< Python Flask, Bootstrap, Jekyll
+React, HTML, CSS, Python Flask, Bootstrap, Jekyll
 
 #### Mobile Development 
 Flutter, Firebase
