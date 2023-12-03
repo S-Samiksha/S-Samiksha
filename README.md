@@ -3,12 +3,15 @@
 ### About Me
 I am Sankar Samiksha. I am currently a year 4 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. <br>
 
+- 🔭 I’m currently working on a blockchain e-commerce platform 
+- 🌱 I’m currently learning solidity
+
 ### Software, Technologies and Languages I have Learnt
 
 #### Programming Languages
 C/C++ Programming, Python, Java, JavaScript, Solidity
 
-#### Database
+#### Databases
 MySQL, PostgreSQL
 
 #### Web Development
@@ -23,6 +26,9 @@ Pandas, Scikit-learn, PyTorch, R, STATA, SciPy, MatPlotLib, NumPy, Seaborn
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
+
 
 
 ---
@@ -31,6 +37,10 @@ Pandas, Scikit-learn, PyTorch, R, STATA, SciPy, MatPlotLib, NumPy, Seaborn
 
 
 <!--
+
+### Cybersecurity 
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Samiksha&layout=compact)](https://github.com/S-Samiksha/github-readme-stats)
 
 
