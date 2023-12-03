@@ -25,13 +25,7 @@ I am Sankar Samiksha. I am currently a year 4 student studying Computer Science 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
 
----
 
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=S-Samiksha&count_private=true&theme=tokyonight&showicons=true)]()
-
----
 
 
 
