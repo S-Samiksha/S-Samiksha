@@ -3,7 +3,7 @@
 ### About Me
 I am Sankar Samiksha. I am currently a year 4 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. <br>
 
-- 🔭 I’m currently working on a blockchain e-commerce platform 
+- 🔭 I’m currently working on reputation mechanisms in blockchain e-commerce platforms 
 - 🌱 I’m currently learning solidity
 
 ### Programming Languages
