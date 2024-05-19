@@ -3,9 +3,6 @@
 ### About Me
 I am Sankar Samiksha. I am currently a year 4 student studying Computer Science and Economics (Double Degree) at Nanyang Technological University. <br>
 
-- 🔭 I’m currently working on reputation mechanisms in blockchain e-commerce platforms 
-- 🌱 I’m currently learning solidity
-
 ### Programming Languages
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>   ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
  
@@ -32,25 +29,6 @@ I am Sankar Samiksha. I am currently a year 4 student studying Computer Science 
 
 
 <!--
-
-
-
-
-#### Programming Languages
-C/C++ Programming, Python, Java, JavaScript, Solidity
-
-#### Database
-MySQL, PostgreSQL
-
-#### Web Development
-React, HTML, CSS, Python Flask, Bootstrap, Jekyll
-
-#### Mobile Development 
-Flutter, Firebase
-
-#### Machine Learning, Deep Learning and Data Science
-Pandas, Scikit-learn, PyTorch, R, STATA, SciPy, MatPlotLib, NumPy, Seaborn
-
 
 
 
